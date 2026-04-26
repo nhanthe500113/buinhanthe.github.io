@@ -152,6 +152,6 @@ php artisan serve
 
 ## 📬 Contact
 
-* GitHub: https://github.com/yourusername
-* LinkedIn: https://linkedin.com/in/yourname
-* Email: [your@email.com](mailto:your@email.com)
+* GitHub: https://github.com/nhanthe500113
+* LinkedIn: https://www.linkedin.com/in/buinhanthe
+* Email: nhanthe500113@gmail.com (mailto:nhanthe500113@gmail.com)
